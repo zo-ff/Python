@@ -1,6 +1,3 @@
-# 🐍 Python Data Analysis & Anomaly Detection Roadmap
-
-東大の「Pythonプログラミング入門」をベースにした、データ分析・異常検知習得のための最短ルートです。
 
 ## 📅 Step 1: 基礎固め（必須文法）
 分析コードの「読み書き」に必要な最小限の文法です。
